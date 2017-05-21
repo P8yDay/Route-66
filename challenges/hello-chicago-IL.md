@@ -22,14 +22,15 @@ Your task is to write the classes for a simple calculator application.
 
 ## Bonus
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] blank
+- [ ] blank
+- [ ] blank
+- [ ] blank
+- [ ] blank
 
 ## Credits
 
+|                              |             |
 | ---------------------------- | ----------- |
 | **Authors**                  | @bonechurch |
 | **Submission Contributors**  |             |
