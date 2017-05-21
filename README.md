@@ -1,7 +1,7 @@
 # Route-66
 
 ## Get Your Kicks!
-Grease your tires! Fasten your seatbelts! And join us on this iconic roadtrip filled with *classic challenges* that will keep you entertained for days...or 2451 miles to be exact!
+Grease your tires! Fasten your seatbelt! And kickstart this iconic roadtrip filled with *classic coding challenges* that will keep you entertained for days...or 2453 miles to be exact!
 
 ## Table of Contents
 1. [Getting Started](https://github.com/bonechurch/Route-66#getting-started)
