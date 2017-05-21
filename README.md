@@ -29,5 +29,12 @@ Grease your tires! Fasten your seatbelt! And kickstart this iconic roadtrip fill
 
 ## Credits
 
+|                                      |             |
+| ------------------------------------ | ----------- |
+| **Notable Authors**                  | @bonechurch |
+| **Notable Submission Contributors**  |             |
+| **Notable Bonus Contributors**       |             |
+|                                      |             |
+
 ## License
 See the [LICENSE](https://github.com/bonechurch/Route-66/blob/master/LICENSE) file.
