@@ -13,6 +13,17 @@ Grease your tires! Fasten your seatbelts! And join us on this iconic roadtrip fi
 ## Getting Started
 
 ## Challenges
+* [Hello Chicago, IL]()
+* [Gemini Giant, IL]()
+* [Gateway Arch, MO]()
+* [Tow Tater, KS]()
+* [Ed Galloway's Totem Pole Park, OK]()
+* [Cadillac Ranch, TX]()
+* [Blue Swallow Motel, NM]()
+* [Jack Rabbit Trading Post, AZ]()
+* [Wild Burros, AZ]()
+* [Wigwam Motel, CA]()
+* [Goodbye Santa Monica, CA]()
 
 ## Contributing
 
