@@ -6,11 +6,30 @@
 
 ## Challenge
 
+Your task is to 
+
 ## Requirements
 
-## Bonus
+* Must include 
+
+## Bonus 
+#### (Completed bonus challenges are indicated)
+
+Take your (blank) to the next level by:
+- [ ] blank
+- [ ] blank
+- [ ] blank
+- [ ] blank
+- [ ] blank
 
 ## Credits
+
+|                              |             |
+| ---------------------------- | ----------- |
+| **Authors**                  | @bonechurch |
+| **Submission Contributors**  |             |
+| **Bonus Contributors**       |             |
+|                              |             |
 
 ## Submissions
 
