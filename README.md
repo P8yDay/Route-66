@@ -31,9 +31,10 @@ Grease your tires! Fasten your seatbelt! And kickstart this iconic roadtrip fill
 
 |                                      |             |
 | ------------------------------------ | ----------- |
-| **Notable Authors**                  | @bonechurch |
-| **Notable Submission Contributors**  |             |
-| **Notable Bonus Contributors**       |             |
+| **Authors**                          | @bonechurch |
+| **Graphics Contributors**            |             |
+| **Submission Contributors**          |             |
+| **Bonus Contributors**               |             |
 |                                      |             |
 
 ## License
