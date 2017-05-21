@@ -13,17 +13,17 @@ Grease your tires! Fasten your seatbelts! And join us on this iconic roadtrip fi
 ## Getting Started
 
 ## Challenges
-* [Hello Chicago, IL]()
-* [Gemini Giant, IL]()
-* [Gateway Arch, MO]()
-* [Tow Tater, KS]()
-* [Ed Galloway's Totem Pole Park, OK]()
-* [Cadillac Ranch, TX]()
-* [Blue Swallow Motel, NM]()
-* [Jack Rabbit Trading Post, AZ]()
-* [Wild Burros, AZ]()
-* [Wigwam Motel, CA]()
-* [Goodbye Santa Monica, CA]()
+* [Hello Chicago, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/hello-chicago-IL.md)
+* [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md)
+* [Gateway Arch, MO](https://github.com/bonechurch/Route-66/blob/master/challenges/gateway-arch-MO.md)
+* [Tow Tater, KS](https://github.com/bonechurch/Route-66/blob/master/challenges/tow-tater-KS.md)
+* [Ed Galloway's Totem Pole Park, OK](https://github.com/bonechurch/Route-66/blob/master/challenges/ed-galloways-totem-pole-park-OK.md)
+* [Cadillac Ranch, TX](https://github.com/bonechurch/Route-66/blob/master/challenges/cadillac-ranch-TX.md)
+* [Blue Swallow Motel, NM](https://github.com/bonechurch/Route-66/blob/master/challenges/blue-swallow-motel-NM.md)
+* [Jack Rabbit Trading Post, AZ](https://github.com/bonechurch/Route-66/blob/master/challenges/jack-rabbit-trading-post-AZ.md)
+* [Wild Burros, AZ](https://github.com/bonechurch/Route-66/blob/master/challenges/wild-burros-AZ.md)
+* [Wigwam Motel, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/wigwam-motel-CA.md)
+* [Goodbye Santa Monica, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/goodbye-santa-monica-CA.md)
 
 ## Contributing
 
