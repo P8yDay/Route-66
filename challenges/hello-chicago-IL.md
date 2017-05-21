@@ -35,6 +35,7 @@ Your task is to write the classes for a simple calculator application.
 | **Authors**                  | @bonechurch |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
+|                              |             |
 
 ## Submissions
 
