@@ -20,7 +20,8 @@ Your task is to write the classes for a simple calculator application.
 * Must include an updating diplay
 * Must include the = (equals) and CLEAR buttons
 
-## Bonus (Completed bonus challenges are indicated)
+## Bonus 
+#### (Completed bonus challenges are indicated)
 
 Take your calculator to the next level by:
 - [ ] blank
