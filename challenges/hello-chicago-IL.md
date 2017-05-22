@@ -35,6 +35,7 @@ Take your calculator to the next level by:
 |                              |             |
 | ---------------------------- | ----------- |
 | **Authors**                  | @bonechurch |
+| **Graphics Contributors**    |             |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
 |                              |             |
