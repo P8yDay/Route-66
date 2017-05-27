@@ -2,6 +2,8 @@
 
 # Hello Chicago, IL
 
+![](https://github.com/bonechurch/Route-66/blob/master/images/hello-chicago-IL.png)
+
 ## Public Enemy No. 1
 
 The year is 1929. Gangster and bootlegger, Al Capone, and his associates are still at large.
@@ -37,7 +39,7 @@ Take your calculator to the next level!
 |                              |             |
 | ---------------------------- | ----------- |
 | **Authors**                  | @bonechurch |
-| **Graphics Contributors**    |             |
+| **Graphics Contributors**    | @bonechurch |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
 |                              |             |
