@@ -21,7 +21,6 @@ Your task is to write the classes for a simple calculator application.
 * Must include the = (equals) and CLEAR buttons
 
 ## Bonus 
-#### (Completed bonus challenges are indicated below)
 
 Take your calculator to the next level!
 
@@ -30,6 +29,8 @@ Take your calculator to the next level!
 - [ ] Create a display to track your input / output history (upon selection, either can be reused as operands)
 - [ ] Transform your standard calculator into a graphing calculator
 - [ ] Implement a crafty **LEET SPEAK** converter (ideally, from text to numbers)
+
+##### *(Completed bonus challenges are indicated above)*
 
 ## Credits
 
