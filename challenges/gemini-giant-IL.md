@@ -2,7 +2,7 @@
 
 # Gemini Giant, IL
 
-## Description
+## Mars Attacks!
 
 ## Challenge
 
