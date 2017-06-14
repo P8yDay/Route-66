@@ -16,59 +16,102 @@ You've come to the right place! Start by editing one of our ready-made templates
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------ 
-|    ___            _                   _    _                               >>  When saving this file, you may delete everything  |
-|   |_ _| _ _   ___| |_  _ _  _  _  __ | |_ (_) ___  _ _   ___                             above and including these instructions. |
+|    ___            _                   _    _                                                                                     |
+|   |_ _| _ _   ___| |_  _ _  _  _  __ | |_ (_) ___  _ _   ___                                                                     |
 |    | | | ' \ (_-<|  _|| '_|| || |/ _||  _|| |/ _ \| ' \ (_-<                                                                     |
 |   |___||_||_|/__/ \__||_|   \_,_|\__| \__||_|\___/|_||_|/__/                                                                     |
 |                                                                                                                                  |
-|    * Comments in this file are indicated by the following symbol: <!--- --- >                                                    |
-|    *                                                                                                                             |
+|    --------------------------------------------------------------------------------------------------------------------------    |
+|                                                                                                                                  |
+|    Welcome to the Route 66 team! Thank you!                                                                                      |
+|                                                                                                                                  |
+|    This template has been designed to facilitate ease of use and consistency with our authored challenge submissions.            |
+|    It uses Markdown. For your aid, a cheatsheet can be found at the following link:                                              |
+|    https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf                                                                 |
+|                                                                                                                                  |
+|    --------------------------------------------------------------------------------------------------------------------------    |
+|                                                                                                                                  |
+|    >> Firstly, please rename this file to your challenge name (i.e. hello-chicago-IL.md). It is important to include the         |
+|       file extension here, '.md'. Also, we ask that you try to stick to the Route 66 Landmark theme :)                           |
+|                                                                                                                                  |
+|    >> Next, you'll find the bare bones and formatting of this file below these instructions. Go wild! We've included some        |
+|       Important Notes & Terms to help guide you through the document. These can be found at the end of this section.             |
+|                                                                                                                                  |
+|    >> Once you're all done, request to commit your changes to our master branch!                                                 |
+|                                                                                                                                  |
+|    >> Note, when committing this file, you may delete everything above and including these instructions.                         |
+|                                                                                                                                  |
+|    --------------------------------------------------------------------------------------------------------------------------    |
+|                                                                                                                                  |
+|    Again, our warmest thank you for supporting and contributing to this project!                                                 |
+|                                                                                                                                  |
+|    --------------------------------------------------------------------------------------------------------------------------    |
+|                                                                                                                                  |
+|    Important Notes & Terms:                                                                                                      |
+|                                                                                                                                  |
+|       * Comments in this file are indicated by the following symbol: <!--- --- >                                                 |
+|       * Flags are important keywords found within commments that require instruction (i.e. Uncomment, Note, etc.)                |
+|                                                                                                                                  |
+|       Flags:                                                                                                                     |
+|           -  Uncomment(F):  This flag is FIXED and MUST BE INCLUDED in your submission. Simply delete the flag signature and     |
+|                             comment symbols.                                                                                     |
+|           -  Uncomment(C):  This flag is CHANGEABLE and MUST BE INCLUDED in your submission. Simply delete the flag signature    |
+|                             and comment symbols. The text can be edited. Often, you will find suggestions or notes with          |
+|                             reference to the flag. Please keep any and all pre-existing Markdown formattings unaltered.          |
+|                             You are invited to introduce your own Markdown features, however.                                    |
+|           -  Optional:      These are optional sections to fill in (i.e. Images). If unused, we suggest you still keep them      |
+|                             commented in your submission, in case of future changes or additions to your file.                   |
+|           -  Note (?/?):    These are additional notes found within the document. They are numbered. You may delete them         |
+|                             altogether if you wish.                                                                              |
+|                                                                                                                                  |
 ------------------------------------------------------------------------------------------------------------------------------- --->
 
 
-<!--- Uncomment: [Go Back](https://github.com/bonechurch/Route-66#challenges) --->
+<!--- Uncomment(F): [Go Back](https://github.com/bonechurch/Route-66#challenges) --->
 
-<!--- # Title (i.e. Route 66 Landmark) --->
+<!--- Uncomment(C): # Title (i.e. Route 66 Landmark) --->
 
-<!--- ![]() Image, insert link between the parentheses --->
+<!--- Optional: ![]() Image, insert link between the parentheses --->
 
-<!--- ## Secondary Title --->
+<!--- Uncomment(C): ## Secondary Title --->
 
-<!--- Description / Story --->
+<!--- Uncomment(C): Description / Story, introduce us to your challenge --->
 
-<!--- Uncomment: ## Challenge --->
+<!--- Uncomment(F): ## Challenge --->
 
-<!--- Task Description --->
+<!--- Uncomment(C): Task Description --->
 
-<!--- Uncomment: ## Requirements --->
+<!--- Uncomment(F): ## Requirements --->
 
-<!--- * Must include... --->
-<!--- * Must include... --->
-<!--- * Must include... --->
+<!--- Uncomment(C): * Must include... --->
+<!--- Optional: * Must include... --->
+<!--- Optional: * Must include... --->
 
-<!--- Uncomment: ## Bonus --->
+<!--- Uncomment(F): ## Bonus --->
 
-<!--- Uncomment: Take your _________ to the next level! --->
+<!--- Uncomment(C): Take your ____(fill in blank)____ to the next level! --->
 
-<!--- - [ ] Incompleted bonus challenge ---> 
-<!--- - [x] Completed bonus challenge --->
+<!--- Uncomment(C): - [ ] Incompleted bonus challenge ---> 
+<!--- Optional: - [ ] Incompleted bonus challenge ---> 
+<!--- Optional: - [x] Completed bonus challenge --->
 
-<!--- Uncomment: ##### *(Completed bonus challenges are indicated above)* --->
+<!--- Uncomment(F): ##### *(Completed bonus challenges are indicated above)* --->
 
-<!--- Uncomment: ## Credits --->
-<!--- Uncomment:
+<!--- Uncomment(F): ## Credits --->
+
+<!--- Uncomment(C):
 |                              |             |
 | ---------------------------- | ----------- |
-| **Authors**                  |             |
+| **Authors**                  | @yourname   |
 | **Graphics Contributors**    |             |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
 |                              |             | --->
 
-<!--- Note (1/2): Credit contibutors (i.e. @) of your challenge by listing them in the appropriate row above. --->
+<!--- Note (1/2): Credit any contibutors (i.e. using @ symbol) of your challenge by listing them in the appropriate row above. --->
 
-<!--- Uncomment: ## Submissions --->
+<!--- Uncomment(F): ## Submissions --->
 
-<!--- Uncomment: See the [submissions]() for this challenge. --->
+<!--- Uncomment(F): See the [submissions]() for this challenge. --->
 
-<!--- Note (2/2): Reference the submissions directory for your challenge using the link above. --->
+<!--- Note (2/2): Reference the submissions directory for your challenge, by inserting the link between the parentheses above. --->
