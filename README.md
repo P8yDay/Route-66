@@ -11,7 +11,7 @@ Grease your wheels! Fasten your seatbelt! And kickstart this iconic roadtrip fil
 5. [License](https://github.com/bonechurch/Route-66#license)
 
 ## Getting Started
-#### Welcome to Route 66! The thrill of a wild programming adventure awaits you!
+Welcome to Route 66! The thrill of a wild programming adventure awaits you!
 
 To get started, fork this repository and try your hand at any one of our challenges below.
 Simply pick a challenge and complete each of its listed requirements in a programming language of your choice!
