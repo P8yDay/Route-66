@@ -24,6 +24,8 @@ Lastly, if you have any questions, comments or concerns, please make yourself he
 
 Good luck and safe travels!
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ***Not a developer?** Don't worry! We support a variety of talents. Just visit our [Contributing](https://github.com/bonechurch/Route-66#contributing) section to see how you could fit in.*
 
 ## Challenges
