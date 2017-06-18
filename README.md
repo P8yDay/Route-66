@@ -15,9 +15,12 @@ Grease your wheels! Fasten your seatbelt! And kickstart this iconic roadtrip fil
 To get started, fork this repository and try your hand at any one of our challenges below.
 Simply pick a challenge and complete each of its listed requirements in a programming language of your choice!
 Feeling extra ambitious? We've even prepared bonus tasks with each challenge to help you hone your coding skills.
+
 Once you feel confident with your solution, we encourage you to [share it with us]() and learn how others approached the problem.
 Remember, you can always help your fellow roadtrippers with their submissions too!
+
 **Not a developer?** Don't worry! We support a variety of talents. Just visit our [Contributing]() section to see how you could fit in.
+
 *Lastly, if you have any questions, comments or concerns, please make yourself heard in our [Issues]() section.*
 #### Good luck and safe travels!
 
