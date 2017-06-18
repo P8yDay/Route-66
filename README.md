@@ -11,7 +11,8 @@ Grease your wheels! Fasten your seatbelt! And kickstart this iconic roadtrip fil
 5. [License](https://github.com/bonechurch/Route-66#license)
 
 ## Getting Started
-### Welcome to Route 66! The thrill of a wild programming adventure awaits you!
+Welcome to Route 66! The thrill of a wild programming adventure awaits you!
+
 To get started, fork this repository and try your hand at any one of our challenges below.
 Simply pick a challenge and complete each of its listed requirements in a programming language of your choice!
 Feeling extra ambitious? We've even prepared bonus tasks with each challenge to help you hone your coding skills.
@@ -23,8 +24,7 @@ Lastly, if you have any questions, comments or concerns, please make yourself he
 
 Good luck and safe travels!
 
-**Not a developer?** 
-Don't worry! We support a variety of talents. Just visit our [Contributing](https://github.com/bonechurch/Route-66#contributing) section to see how you could fit in.
+***Not a developer?** Don't worry! We support a variety of talents. Just visit our [Contributing](https://github.com/bonechurch/Route-66#contributing) section to see how you could fit in.*
 
 ## Challenges
 * [Hello Chicago, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/hello-chicago-IL.md)
