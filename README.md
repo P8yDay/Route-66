@@ -19,10 +19,11 @@ Feeling extra ambitious? We've even prepared bonus tasks with each challenge to 
 Once you feel confident with your solution, we encourage you to [share it with us]() and learn how others approached the problem.
 Remember, you can always help your fellow roadtrippers with their submissions too!
 
-**Not a developer?** Don't worry! We support a variety of talents. Just visit our [Contributing]() section to see how you could fit in.
-
 *Lastly, if you have any questions, comments or concerns, please make yourself heard in our [Issues]() section.*
+
 #### Good luck and safe travels!
+
+**Not a developer?** Don't worry! We support a variety of talents. Just visit our [Contributing]() section to see how you could fit in.
 
 ## Challenges
 * [Hello Chicago, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/hello-chicago-IL.md)
