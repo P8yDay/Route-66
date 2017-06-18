@@ -18,7 +18,7 @@ Your task is to write the classes for a simple calculator application.
 * Must include the numbers, 0-9
 * Must include the decimal point '.' button
 * Must include the constant, PI
-* Must include the unary operators: - (negation), √, cos(x), sin(x), tan(x), 1/x
+* Must include the unary operators: - (negation), x! (factorial), √, cos(x), sin(x), tan(x), 1/x
 * Must include the binary operators: +, -, /, *, y^x (exponentiation)
 * Must include an updating diplay
 * Must include the = (equals) and CLEAR buttons
