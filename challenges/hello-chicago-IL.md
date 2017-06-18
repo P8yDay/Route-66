@@ -46,4 +46,4 @@ Take your calculator to the next level!
 
 ## Submissions
 
-See the [submissions]() for this challenge.
+See the [submissions](https://github.com/bonechurch/Route-66/tree/master/submissions/hello-chicago-IL) for this challenge.
