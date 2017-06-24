@@ -4,15 +4,18 @@ import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 
+import java.util.ArrayList;
+
 public class CalculatorView extends GridPane {
-    public static final int BUTTON_UNIT_SIZE = 70;
+    public static final int     BUTTON_UNIT_SIZE = 70;
 
-    private TextField       displayField;
-    private Button[]        numbers;
-    private Button          pi, oneDividedBy, factorial, zero, decimal, equals, squareRoot,
-                            exponent, cos, sin, tan, clear, divide, multiply, subtract, add;
+    private TextField           displayField;
+    private Button[]            numbers;
+    private ArrayList<Button>   allFunctions;
+    private Button              pi, oneDividedBy, factorial, zero, decimal, equals, squareRoot,
+                                exponent, cos, sin, tan, clear, divide, multiply, subtract, add;
 
-    private Calculator      model;
+    private Calculator          model;
 
     // get/set methods
     public Button[] getNumbers() { return numbers; }
@@ -176,7 +179,6 @@ public class CalculatorView extends GridPane {
 
     // update method
     public void update() {
-        // update displayField
-        displayField.setText(String.format("%1.10f", model.getResult()));
+        displayField.setText(String.format("%d", model.()));
     }
 }

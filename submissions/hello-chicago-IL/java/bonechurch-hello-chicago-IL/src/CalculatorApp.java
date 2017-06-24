@@ -65,7 +65,10 @@ public class CalculatorApp extends Application {
 
         for (int i = 0; i < view.getNumbers().length; i++) {
             view.getNumbers()[i].setOnAction(new EventHandler<ActionEvent>() {
-                public void handle(ActionEvent event) { model.handleNumberedButtonPressed(Integer.parseInt(((Button)event.getSource()).getText())); }
+                public void handle(ActionEvent event) {
+                    model.handleNumberedButtonPressed(Integer.parseInt(((Button)event.getSource()).getText()));
+                    view.update();
+                }
             });
         }
 
