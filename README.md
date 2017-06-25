@@ -42,10 +42,11 @@ Good luck and safe travels!
 
 As such, we want to give you every opportunity of working with us on this project. We support a variety of contributions, and we're always open to [new suggestions](https://github.com/bonechurch/Route-66/issues)!
 
-Fork this repository and explore the different ways you can contribute:
+Fork this repository and explore the different ways that you can contribute:
 
-*
-
+* [Author a challenge](https://github.com/bonechurch/Route-66/blob/master/challenges/TEMPLATE.md), 
+* [Contribute an image](https://github.com/bonechurch/Route-66/blob/master/images/INSTRUCTIONS.md), or
+* [Share your solutions](https://github.com/bonechurch/Route-66/blob/master/submissions/INSTRUCTIONS.md)
 
 ## Credits
 
