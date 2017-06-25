@@ -1,56 +1,3 @@
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------ 
-|    ___            _                   _    _                                                                                     |
-|   |_ _| _ _   ___| |_  _ _  _  _  __ | |_ (_) ___  _ _   ___                                                                     |
-|    | | | ' \ (_-<|  _|| '_|| || |/ _||  _|| |/ _ \| ' \ (_-<                                                                     |
-|   |___||_||_|/__/ \__||_|   \_,_|\__| \__||_|\___/|_||_|/__/                                                                     |
-|                                                                                                                                  |
-|    --------------------------------------------------------------------------------------------------------------------------    |
-|                                                                                                                                  |
-|    Welcome to the Route 66 team! Thank you!                                                                                      |
-|                                                                                                                                  |
-|    This template has been designed to facilitate ease of use and consistency with our authored challenge submissions.            |
-|    It uses Markdown. For your aid, a cheatsheet can be found at the following link:                                              |
-|    https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf                                                                 |
-|                                                                                                                                  |
-|    --------------------------------------------------------------------------------------------------------------------------    |
-|                                                                                                                                  |
-|    >> Firstly, we have already provided a name for this challenge. Please do not alter it. We also ask that you ensure the       |
-|       file extension, '.md', remains the same as well.                                                                           |
-|                                                                                                                                  |
-|    >> Next, you'll find the bare bones and formatting of this file below these instructions. Go wild! We've included some        |
-|       Important Notes & Terms to help guide you through the document. These can be found at the end of this section.             |
-|                                                                                                                                  |
-|    >> Once you're all done, request to commit your changes to our master branch!                                                 |
-|                                                                                                                                  |
-|    >> Note, when committing this file, you may delete everything above and including these instructions.                         |
-|                                                                                                                                  |
-|    --------------------------------------------------------------------------------------------------------------------------    |
-|                                                                                                                                  |
-|    Again, our warmest thank you for supporting and contributing to this project!                                                 |
-|                                                                                                                                  |
-|    --------------------------------------------------------------------------------------------------------------------------    |
-|                                                                                                                                  |
-|    Important Notes & Terms:                                                                                                      |
-|                                                                                                                                  |
-|       * Comments in this file are indicated by the following symbol: <!--- --- >                                                 |
-|       * Flags are important keywords found within commments that require instruction (i.e. Uncomment, Note, etc.)                |
-|                                                                                                                                  |
-|       Flags:                                                                                                                     |
-|           -  Uncomment(F):  This flag is FIXED and MUST BE INCLUDED in your submission. Simply delete the flag signature and     |
-|                             comment symbols.                                                                                     |
-|           -  Uncomment(C):  This flag is CHANGEABLE and MUST BE INCLUDED in your submission. Simply delete the flag signature    |
-|                             and comment symbols. The text can be edited. Often, you will find suggestions or notes with          |
-|                             reference to the flag. Please keep any and all pre-existing Markdown formattings unaltered.          |
-|                             You are invited to introduce your own Markdown features, however.                                    |
-|           -  Optional:      These are optional sections to fill in (i.e. Images). If unused, we suggest you still keep them      |
-|                             commented in your submission, in case of future changes or additions to your file.                   |
-|           -  Note (?/?):    These are additional notes found within the document. They are numbered. You may delete them         |
-|                             altogether if you wish.                                                                              |
-|                                                                                                                                  |
-------------------------------------------------------------------------------------------------------------------------------- --->
-
-
 [Go Back](https://github.com/bonechurch/Route-66#challenges)
 
 # Gemini Giant, IL
@@ -58,45 +5,49 @@
 ![](https://github.com/bonechurch/Route-66/blob/master/images/gemini-giant-IL.png)
 
 ## Mars Attacks!
+> [1964.12.07 18:06:53] LOG: Systems connecting...
+>
+> [1964.12.07 18:11:14] LOG: Connection established...
+>
+> [1964.12.07 18:11:29] INCOMING MESSAGE: Attention all NASA personnel and Project Gemini crew. We ar...
+>
+> [1964.12.07 18:11:31] LOG: Systems reconnecting...
+>
+> [1964.12.07 18:23:02] LOG: Connection established...
+>
+> [1964.12.07 18:23:34] INCOMING MESSAGE: We are being attacked. Launch ***Space Invaders***
+>
+> [1964.12.07 18:24:01] LOG: Connection failed...
 
-<!--- Uncomment(C): The year is 1929. Gangster and bootlegger, Al Capone, and his associates are still at large.
-In their efforts to crack down on the leaders of the *Chicago Outfit*, the IRS and Frank J. Wilson have hired you to look into Capone's income, assets and spending. There's one problem though...Big Al's insiders have managed to rig the office's adding machines. Your top secret mission is to **program a new calculator** from scratch. --->
+## Challenge
 
-<!--- Uncomment(F): ## Challenge --->
+Your task is to program the classic *Space Invaders* game.
 
-<!--- Uncomment(C): Task Description --->
+## Requirements
 
-<!--- Uncomment(F): ## Requirements --->
+* Must include... 
+* Must include... 
+* Must include... 
 
-<!--- Uncomment(C): * Must include... --->
-<!--- Optional: * Must include... --->
-<!--- Optional: * Must include... --->
+## Bonus
 
-<!--- Uncomment(F): ## Bonus --->
+Take your *Space Invaders* game to the next level!
 
-<!--- Uncomment(C): Take your ____(fill in blank)____ to the next level! --->
+- [ ] Incompleted bonus challenge
+- [ ] Incompleted bonus challenge
 
-<!--- Uncomment(C): - [ ] Incompleted bonus challenge ---> 
-<!--- Optional: - [ ] Incompleted bonus challenge ---> 
-<!--- Optional: - [x] Completed bonus challenge --->
+##### *(Completed bonus challenges are indicated above)*
 
-<!--- Uncomment(F): ##### *(Completed bonus challenges are indicated above)* --->
+## Credits
 
-<!--- Uncomment(F): ## Credits --->
-
-<!--- Uncomment(C):
 |                              |             |
 | ---------------------------- | ----------- |
 | **Authors**                  | @bonechurch |
 | **Graphics Contributors**    |             |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
-|                              |             | --->
+|                              |             | 
 
-<!--- Note (1/2): Credit any contibutors (i.e. using @ symbol) of your challenge by listing them in the appropriate row above. --->
+## Submissions
 
-<!--- Uncomment(F): ## Submissions --->
-
-<!--- Uncomment(F): See the [submissions]() for this challenge. --->
-
-<!--- Note (2/2): Reference the submissions directory for your challenge, by inserting the link between the parentheses above. --->
+See the [submissions]() for this challenge.
