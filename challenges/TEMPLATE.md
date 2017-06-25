@@ -1,3 +1,5 @@
+[Go Back](https://github.com/bonechurch/Route-66#contributing)
+
 ### Looking to contribute your own challenge?
 
 You've come to the right place! Start by editing one of our ready-made templates:
@@ -13,7 +15,7 @@ You've come to the right place! Start by editing one of our ready-made templates
 * [Wigwam Motel, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/wigwam-motel-CA.md)
 * [Goodbye Santa Monica, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/goodbye-santa-monica-CA.md)
 
-#### Or, craft one of your own by selecting the 'Edit' icon above! Don't worry, we'll prepare you with instructions!
+#### Or, craft one of your own by selecting the 'Edit' icon above! Don't worry, we'll prepare you with instructions on the next page!
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------ 
