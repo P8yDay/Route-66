@@ -39,6 +39,8 @@ Good luck and safe travels!
 
 ## Contributing
 
+***(Coming soon)***
+
 ## Credits
 
 |                                      |             |
