@@ -45,7 +45,7 @@ Good luck and safe travels!
 | ------------------------------------ | ----------- |
 | **Authors**                          | @bonechurch |
 | **Graphics Contributors**            | @bonechurch |
-| **Submission Contributors**          |             |
+| **Submission Contributors**          | @bonechurch |
 | **Bonus Contributors**               |             |
 |                                      |             |
 
