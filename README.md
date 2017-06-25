@@ -48,7 +48,7 @@ Fork this repository and explore the different ways that you can contribute:
 * [Contribute an image](https://github.com/bonechurch/Route-66/blob/master/images/INSTRUCTIONS.md)
 * [Share your solution](https://github.com/bonechurch/Route-66/blob/master/submissions/INSTRUCTIONS.md)
 
-Once you are confident with a submission, simply fire us a pull request with your **@name** and a **submission description**, and we'll get in touch with you as soon as possible!
+Once you are confident with your submission, simply fire us a pull request with your **@name** and a **submission description**, and we'll get in touch with you as soon as possible!
 
 ## Credits
 
