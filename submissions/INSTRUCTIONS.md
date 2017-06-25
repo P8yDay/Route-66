@@ -1,3 +1,5 @@
+[Go Back](https://github.com/bonechurch/Route-66#contributing)
+
 ### Looking to contribute your own challenge solutions?
 
 We can't thank you enough! You are why our community exists!
