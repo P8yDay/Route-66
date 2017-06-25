@@ -1,27 +1,26 @@
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
+import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
-
-import java.util.ArrayList;
 
 public class CalculatorView extends GridPane {
     public static final int     BUTTON_UNIT_SIZE = 70;
 
     private TextField           displayField;
     private Button[]            numbers;
-    private ArrayList<Button>   allFunctions;
-    private Button              pi, oneDividedBy, factorial, zero, decimal, equals, squareRoot,
+    private Button              pi, oneDividedBy, negation, zero, decimal, equals, squareRoot,
                                 exponent, cos, sin, tan, clear, divide, multiply, subtract, add;
 
     private Calculator          model;
 
     // get/set methods
+
     public Button[] getNumbers() { return numbers; }
     public Button getPi() { return pi; }
     public Button getOneDividedBy() { return oneDividedBy; }
-    public Button getFactorial() { return factorial; }
+    public Button getNegation() { return negation; }
     public Button getZero() { return zero; }
     public Button getDecimal() { return decimal; }
     public Button getEquals() { return equals; }
@@ -37,12 +36,13 @@ public class CalculatorView extends GridPane {
     public Button getAdd() { return add; }
 
     // constructor method
+
     public CalculatorView(Calculator m) {
         model = m;
         setPadding(new Insets(10));
 
         displayField = new TextField();
-        displayField.setStyle("-fx-font: 40 helvetica;");
+        displayField.setStyle("-fx-font: 38 helvetica;");
         displayField.setAlignment(Pos.CENTER_RIGHT);
         displayField.setMinHeight(BUTTON_UNIT_SIZE);
         displayField.setFocusTraversable(false);
@@ -64,12 +64,12 @@ public class CalculatorView extends GridPane {
         oneDividedBy.setStyle("-fx-base: #a9a9a9;");
         add(oneDividedBy, 1, 1);
 
-        factorial = new Button("x!");
-        factorial.setMinSize(BUTTON_UNIT_SIZE, BUTTON_UNIT_SIZE);
-        factorial.setFocusTraversable(false);
-        setMargin(factorial, new Insets(5));
-        factorial.setStyle("-fx-base: #a9a9a9;");
-        add(factorial, 2, 1);
+        negation = new Button("+/-");
+        negation.setMinSize(BUTTON_UNIT_SIZE, BUTTON_UNIT_SIZE);
+        negation.setFocusTraversable(false);
+        setMargin(negation, new Insets(5));
+        negation.setStyle("-fx-base: #a9a9a9;");
+        add(negation, 2, 1);
 
         int count = 1;
         numbers = new Button[9];
@@ -139,7 +139,7 @@ public class CalculatorView extends GridPane {
         tan.setStyle("-fx-base: #a9a9a9;");
         add(tan, 3, 5);
 
-        clear = new Button("Clear");
+        clear = new Button("CLEAR");
         clear.setMinSize(BUTTON_UNIT_SIZE, BUTTON_UNIT_SIZE);
         clear.setFocusTraversable(false);
         setMargin(clear, new Insets(5));
@@ -178,7 +178,8 @@ public class CalculatorView extends GridPane {
     }
 
     // update method
+
     public void update() {
-        displayField.setText(String.format("%d", model.()));
+        displayField.setText(model.display());
     }
 }

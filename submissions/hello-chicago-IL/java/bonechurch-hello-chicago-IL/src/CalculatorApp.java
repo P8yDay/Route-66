@@ -14,14 +14,15 @@ public class CalculatorApp extends Application {
         view = new CalculatorView(model);
 
         // define event handlers
+
         view.getPi().setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent event) { model.handlePiPressed(); view.update(); }
         });
         view.getOneDividedBy().setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent event) { model.handleOneDividedByPressed(); view.update(); }
         });
-        view.getFactorial().setOnAction(new EventHandler<ActionEvent>() {
-            public void handle(ActionEvent event) { model.handleFactorialPressed(); view.update(); }
+        view.getNegation().setOnAction(new EventHandler<ActionEvent>() {
+            public void handle(ActionEvent event) { model.handleNegationPressed(); view.update(); }
         });
         view.getZero().setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent event) { model.handleZeroPressed(); view.update(); }
@@ -66,7 +67,7 @@ public class CalculatorApp extends Application {
         for (int i = 0; i < view.getNumbers().length; i++) {
             view.getNumbers()[i].setOnAction(new EventHandler<ActionEvent>() {
                 public void handle(ActionEvent event) {
-                    model.handleNumberedButtonPressed(Integer.parseInt(((Button)event.getSource()).getText()));
+                    model.handleNumberedButtonPressed(((Button)event.getSource()).getText());
                     view.update();
                 }
             });
