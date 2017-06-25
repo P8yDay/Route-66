@@ -44,9 +44,9 @@ As such, we want to give you every opportunity of working with us on this projec
 
 Fork this repository and explore the different ways that you can contribute:
 
-* [Author a challenge](https://github.com/bonechurch/Route-66/blob/master/challenges/TEMPLATE.md), 
-* [Contribute an image](https://github.com/bonechurch/Route-66/blob/master/images/INSTRUCTIONS.md), or
-* [Share your solutions](https://github.com/bonechurch/Route-66/blob/master/submissions/INSTRUCTIONS.md)
+* [Author a challenge](https://github.com/bonechurch/Route-66/blob/master/challenges/TEMPLATE.md) 
+* [Contribute an image](https://github.com/bonechurch/Route-66/blob/master/images/INSTRUCTIONS.md)
+* [Share your solution](https://github.com/bonechurch/Route-66/blob/master/submissions/INSTRUCTIONS.md)
 
 ## Credits
 
