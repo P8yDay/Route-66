@@ -41,7 +41,7 @@ Take your calculator to the next level!
 | ---------------------------- | ----------- |
 | **Authors**                  | @bonechurch |
 | **Graphics Contributors**    | @bonechurch |
-| **Submission Contributors**  |             |
+| **Submission Contributors**  | @bonechurch |
 | **Bonus Contributors**       |             |
 |                              |             |
 
