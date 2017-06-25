@@ -1,6 +1,6 @@
 ### Looking to contribute your own images?
 
-You've come to the right place!
+Right on!
 
 * [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md) ***(In progress)***
 
