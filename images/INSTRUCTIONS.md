@@ -1,10 +1,10 @@
 ### Looking to contribute your own images?
 
-We need you! Simply follow the guidelines presented below and the canvas is your's!
+We need you! Simply follow these guidelines and the canvas is your's!
 
-* 890 (width) x 400 (height) pixels
-* Image is named using .png extension (i.e. hello-chicago-IL.png)
-* Image is submitted to the [Images](https://github.com/bonechurch/Route-66/tree/master/images) directory
+* Image is to be sized, 890 (width) x 400 (height) pixels
+* Image is to be named using .png extension (i.e. hello-chicago-IL.png)
+* Image is to be submitted to the [Images](https://github.com/bonechurch/Route-66/tree/master/images) directory
 
 Need a little inspiration? Here are some upcoming challenges still awaiting graphics.
 
