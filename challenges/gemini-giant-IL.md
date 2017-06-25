@@ -50,4 +50,4 @@ Take your *Space Invaders* game to the next level!
 
 ## Submissions
 
-See the [submissions]() for this challenge.
+See the [submissions](https://github.com/bonechurch/Route-66/tree/master/submissions/gemini-giant-IL) for this challenge.
