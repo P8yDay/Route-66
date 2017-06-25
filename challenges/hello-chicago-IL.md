@@ -18,7 +18,7 @@ Your task is to write the classes for a simple calculator application.
 * Must include the numbers, 0-9
 * Must include the decimal point '.' button
 * Must include the constant, PI
-* Must include the unary operators: - (negation), x! (factorial), √, cos(x), sin(x), tan(x), 1/x
+* Must include the unary operators: +/- (negation), √, cos(x), sin(x), tan(x), 1/x
 * Must include the binary operators: +, -, /, *, y^x (exponentiation)
 * Must include an updating diplay
 * Must include the = (equals) and CLEAR buttons
@@ -27,7 +27,7 @@ Your task is to write the classes for a simple calculator application.
 
 Take your calculator to the next level!
 
-- [ ] Include the LOG and LN buttons (and any other functions you see fit!)
+- [ ] Include the LOG, LN, and x! (factorial) buttons...and any other functions you see fit!
 - [ ] Implement bracket '()' matching - accounting for the *arithmetic order of operations*
 - [ ] Create a display to track your input / output history (upon selection, either can be reused as operands)
 - [ ] Transform your standard calculator into a graphing calculator
