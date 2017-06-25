@@ -2,7 +2,7 @@
 
 We can't thank you enough! You are why our community exists!
 
-After you have completed a challenge in a programming language of your choice, follow these steps to share your solution:
+After you have completed a challenge in any programming language, follow these steps to share your solution:
 
 1. Navigate to the [Submissions](https://github.com/bonechurch/Route-66/tree/master/submissions) directory
 2. If none already exists, create a directory with the challenge name (i.e. hello-chicago-IL)
