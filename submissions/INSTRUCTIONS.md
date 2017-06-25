@@ -1,7 +1,7 @@
 ### Looking to contribute your own challenge solutions?
 
-We can't express our thank you enough!
+We can't thank you enough!
 
-* [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md) ***(In progress)***
+After you have completed a challenge (or its bonus tasks) in a programming language of your choice, here are the steps to take to sharing your code:
 
-#### Or, craft one of your own by selecting the 'Edit' icon above!
+
