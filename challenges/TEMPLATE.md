@@ -13,7 +13,7 @@ You've come to the right place! Start by editing one of our ready-made templates
 * [Wigwam Motel, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/wigwam-motel-CA.md)
 * [Goodbye Santa Monica, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/goodbye-santa-monica-CA.md)
 
-#### Or, craft one of your own by selecting the 'Edit' icon above!
+#### Or, craft one of your own by selecting the 'Edit' icon above! Don't worry, we'll prepare you with instructions!
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------ 
