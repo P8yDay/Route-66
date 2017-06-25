@@ -1,6 +1,8 @@
 ### Looking to contribute your own challenge?
 
-You've come to the right place! Start by editing one of our ready-made templates:
+You've come to the right place! 
+
+Start by editing one of our ready-made templates:
 
 * [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md)
 * [Gateway Arch, MO](https://github.com/bonechurch/Route-66/blob/master/challenges/gateway-arch-MO.md)
