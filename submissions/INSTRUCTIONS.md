@@ -15,4 +15,6 @@ If all goes well, the path to your solution should look something like this:
 
 > *hello-chicago-IL/java/bonechurch-hello-chicago-IL/src*
 
-Important Notes:
+#### Important Notes (Include in your pull request):
+* Please indicate the IDE that you used so we can update our [.gitignore](https://github.com/bonechurch/Route-66/blob/master/.gitignore) file
+* Please indicate if you are submitting a bonus task solution
