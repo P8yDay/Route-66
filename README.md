@@ -11,7 +11,7 @@ Grease your wheels! Fasten your seatbelt! And kickstart this iconic roadtrip fil
 5. [License](https://github.com/bonechurch/Route-66#license)
 
 ## Getting Started
-Welcome to Route 66! The thrill of a wild programming adventure awaits you!
+Welcome to *Route 66*! The thrill of a wild programming adventure awaits you!
 
 To get started, fork this repository and try your hand at any one of our challenges below.
 Simply pick a challenge and complete each of its listed requirements in a programming language of your choice!
@@ -38,8 +38,14 @@ Good luck and safe travels!
 * [Goodbye Santa Monica, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/goodbye-santa-monica-CA.md) --->
 
 ## Contributing
+*Route 66* is a ticket to freedom. It belongs to its contributors. And it belongs to you.
 
-***(Coming soon)***
+As such, we want to give you every opportunity of working with us on this project. We support a variety of contributions, and we're always open to [new suggestions](https://github.com/bonechurch/Route-66/issues)!
+
+Fork this repository and explore the different ways you can contribute:
+
+*
+
 
 ## Credits
 
