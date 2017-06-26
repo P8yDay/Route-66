@@ -45,11 +45,11 @@ Take your *Space Invaders* game to the next level!
 - [ ] Implement several levels with various enemy spaceship layouts
 - [ ] Implement an enemy "mothership" that can absorb multiple hits before elimination
 - [ ] Implement enemy fired traps & powerups including:
-Freezing the user's spaceship
-Inverting the user's controls
-Speeding up the user's spaceship
-Speeding up rockets fired
-Duplicating the user's spaceship
+(1) Freezing the user's spaceship; 
+(2) Inverting the user's controls;
+(3) Speeding up the user's spaceship;
+(4) Speeding up rockets fired;
+(5) Duplicating the user's spaceship
 
 ##### *(Completed bonus challenges are indicated above)*
 
