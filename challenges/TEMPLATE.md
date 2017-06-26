@@ -4,7 +4,6 @@
 
 You've come to the right place! Start by editing one of our ready-made templates:
 
-* [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md)
 * [Gateway Arch, MO](https://github.com/bonechurch/Route-66/blob/master/challenges/gateway-arch-MO.md)
 * [Tow Tater, KS](https://github.com/bonechurch/Route-66/blob/master/challenges/tow-tater-KS.md)
 * [Ed Galloway's Totem Pole Park, OK](https://github.com/bonechurch/Route-66/blob/master/challenges/ed-galloways-totem-pole-park-OK.md)
