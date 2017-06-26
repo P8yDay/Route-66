@@ -40,6 +40,7 @@ Your task is to program the classic *Space Invaders* game.
 
 Take your *Space Invaders* game to the next level!
 
+- [ ] Implement scoring bonuses for extra LIVES REMAINING & destroying enemy ships from different rows
 - [ ] Write the user's HIGH SCORES to a data file, which can be accessed via a LEADERBOARDS menu
 - [ ] Include online functionality, in which LEADERBOARDS are shared between multiple users
 - [ ] Implement several levels with various enemy spaceship layouts
