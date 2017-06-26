@@ -36,6 +36,7 @@ Good luck and safe travels!
 * [Wild Burros, AZ](https://github.com/bonechurch/Route-66/blob/master/challenges/wild-burros-AZ.md)
 * [Wigwam Motel, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/wigwam-motel-CA.md)
 * [Goodbye Santa Monica, CA](https://github.com/bonechurch/Route-66/blob/master/challenges/goodbye-santa-monica-CA.md) --->
+***More challenges coming soon!***
 
 ## Contributing
 *Route 66* is a ticket to freedom. It belongs to its contributors. And it belongs to you.
