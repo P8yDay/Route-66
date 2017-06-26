@@ -31,8 +31,11 @@ Your task is to program the classic *Space Invaders* game.
 * Must include a NUMBER OF LIVES REMAINING label (3 lives recommended)
 * Must include CURRENT SCORE and HIGH SCORE labels
 * User must lose under two conditions:
-* If NUMBER OF LIVES REMAINING reduces to **0**, or
-* If enemy spaceships advance
+
+  (1) If NUMBER OF LIVES REMAINING reduces to **0**, or 
+  
+  (2) If enemy spaceships advance
+  
 * User must win if all enemy spaceships are destroyed
 * Must implement (re)start game
 
