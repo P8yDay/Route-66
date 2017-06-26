@@ -34,7 +34,7 @@ Your task is to program the classic *Space Invaders* game.
 * The user must lose if NUMBER OF LIVES REMAINING reduces to **0**
 * The user must lose if enemy spaceships advance past a defined height on-screen
 * The user must win if all enemy spaceships are destroyed
-* Must implement a (re)start game functionality
+* Must implement a pause screen with (re)start game functionality
 
 ## Bonus
 
