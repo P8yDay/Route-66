@@ -24,15 +24,12 @@
 Your task is to program the classic *Space Invaders* game.
 
 ## Requirements
-
 * Must include a user-controlled, friendly spaceship (navigates horizontally)
 * Must include at least **3** rows of **8** AI-controlled, enemy spaceships (navigate horizontally & vertically)
 * The friendly spaceship must fire rockets on command (destroying enemy spaceships if struck)
 * *Unblocked*, enemy spaceships must fire rockets randomly (destroying the friendly spaceship if struck)
-
 * Must include a NUMBER OF LIVES REMAINING label (3 lives recommended)
-* Must include a CURRENT SCORE label
-* Must include a HIGH SCORE label
+* Must include CURRENT SCORE and HIGH SCORE labels
 * User must lose under two conditions:
 * If NUMBER OF LIVES REMAINING reduces to **0**, or
 * If enemy spaceships advance
