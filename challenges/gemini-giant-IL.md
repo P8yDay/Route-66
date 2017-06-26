@@ -15,7 +15,7 @@
 >
 > [1964.12.07 18:23:02] LOG: Connection established...
 >
-> [1964.12.07 18:23:34] INCOMING MESSAGE: We are being attacked. Launch ***Space Invaders***
+> [1964.12.07 18:23:34] INCOMING MESSAGE: We are being attacked. Launch ***Space Invaders*** immediately.
 >
 > [1964.12.07 18:24:01] LOG: Connection failed...
 
@@ -27,20 +27,30 @@ Your task is to program the classic *Space Invaders* game.
 * Must include a user-controlled, friendly spaceship (navigates horizontally)
 * Must include at least **3** rows of **8** AI-controlled, enemy spaceships (navigate horizontally & vertically)
 * The friendly spaceship must fire rockets on command (destroying enemy spaceships if struck)
-* *Unblocked*, enemy spaceships must fire rockets randomly (destroying the friendly spaceship if struck)
+* Unblocked, enemy spaceships must fire rockets randomly (destroying the friendly spaceship if struck)
 * Must include a NUMBER OF LIVES REMAINING label (3 lives recommended)
-* Must include CURRENT SCORE and HIGH SCORE labels
+* Must include SCORE and HIGH SCORE labels
+* Must include a COUNTDOWN timer, whose surplus is added to the user's SCORE
 * The user must lose if NUMBER OF LIVES REMAINING reduces to **0**
-* The user must lose if enemy spaceships advance past a defined height
+* The user must lose if enemy spaceships advance past a defined height on-screen
 * The user must win if all enemy spaceships are destroyed
-* Must implement (re)start game functionality
+* Must implement a (re)start game functionality
 
 ## Bonus
 
 Take your *Space Invaders* game to the next level!
 
-- [ ] Incompleted bonus challenge
-- [ ] Incompleted bonus challenge
+- [ ] Write the user's HIGH SCORES to a data file, which can be accessed via a LEADERBOARDS menu
+- [ ] Include online functionality, in which LEADERBOARDS are shared between multiple users
+- [ ] Implement several levels with various enemy spaceship layouts
+- [ ] Implement an enemy "mothership" that can absorb multiple hits before elimination
+- [ ] Implement enemy fired traps & powerups including:
+
+  * Freezing the user's spaceship
+  * Inverting the user's controls
+  * Speeding up the user's spaceship
+  * Speeding up rockets
+  * Duplicating the user's spaceship
 
 ##### *(Completed bonus challenges are indicated above)*
 
