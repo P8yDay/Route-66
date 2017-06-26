@@ -30,14 +30,10 @@ Your task is to program the classic *Space Invaders* game.
 * *Unblocked*, enemy spaceships must fire rockets randomly (destroying the friendly spaceship if struck)
 * Must include a NUMBER OF LIVES REMAINING label (3 lives recommended)
 * Must include CURRENT SCORE and HIGH SCORE labels
-* User must lose under two conditions:
-
-  (1) If NUMBER OF LIVES REMAINING reduces to **0**, or 
-  
-  (2) If enemy spaceships advance
-  
-* User must win if all enemy spaceships are destroyed
-* Must implement (re)start game
+* The user must lose if NUMBER OF LIVES REMAINING reduces to **0**
+* The user must lose if enemy spaceships advance past a defined height
+* The user must win if all enemy spaceships are destroyed
+* Must implement (re)start game functionality
 
 ## Bonus
 
