@@ -26,8 +26,8 @@ Good luck and safe travels!
 
 ## Challenges
 * [Hello Chicago, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/hello-chicago-IL.md)
-<!--- * [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md)
-* [Gateway Arch, MO](https://github.com/bonechurch/Route-66/blob/master/challenges/gateway-arch-MO.md)
+* [Gemini Giant, IL](https://github.com/bonechurch/Route-66/blob/master/challenges/gemini-giant-IL.md)
+<!--- * [Gateway Arch, MO](https://github.com/bonechurch/Route-66/blob/master/challenges/gateway-arch-MO.md)
 * [Tow Tater, KS](https://github.com/bonechurch/Route-66/blob/master/challenges/tow-tater-KS.md)
 * [Ed Galloway's Totem Pole Park, OK](https://github.com/bonechurch/Route-66/blob/master/challenges/ed-galloways-totem-pole-park-OK.md)
 * [Cadillac Ranch, TX](https://github.com/bonechurch/Route-66/blob/master/challenges/cadillac-ranch-TX.md)
