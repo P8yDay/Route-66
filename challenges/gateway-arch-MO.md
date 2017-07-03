@@ -6,7 +6,7 @@
 
 ## Cannons & Canoes
 
-*It's the race of the ages!* In a heated exchange along the Mississippi River, the early settlers, Lewis and Clark, are battling out who can reach the Gateway Arch first.
+*It's the race of the ages!* In a heated exchange along the Mississippi River, the early settlers, Lewis and Clark, are battling out who can reach the Gateway Arch first. Only one can cross the finish line with their cannon-equiped canoe — and be crowned Thomas Jefferson's *'Expeditioner of the Century'*! 
 
 ## Challenge
 
