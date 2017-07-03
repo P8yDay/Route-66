@@ -6,7 +6,7 @@
 
 ## Cannons & Canoes
 
-It's a race to the finish line! In a heated exchange along the Mississippi River, the early settlers, Lewis and Clark, are battling out who can reach the Gateway Arch first. 
+*It's a race to the finish line!* In a heated exchange along the Mississippi River, the early settlers, Lewis and Clark, are battling out who can reach the Gateway Arch first.
 
 ## Challenge
 
