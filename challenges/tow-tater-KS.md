@@ -4,7 +4,7 @@
 
 ![](https://github.com/bonechurch/Route-66/blob/master/images/tow-tater-KS.png)
 
-## Git-R-Done!
+## "Need a Lift?"
 
 <!--- Uncomment(C): Description / Story, introduce us to your challenge --->
 
