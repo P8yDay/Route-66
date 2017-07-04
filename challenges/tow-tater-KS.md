@@ -4,45 +4,39 @@
 
 ![](https://github.com/bonechurch/Route-66/blob/master/images/tow-tater-KS.png)
 
-<!--- Uncomment(C): ## Secondary Title --->
+## Git-R-Done!
 
 <!--- Uncomment(C): Description / Story, introduce us to your challenge --->
 
-<!--- Uncomment(F): ## Challenge --->
+## Challenge
 
-<!--- Uncomment(C): Task Description --->
+Your task is to ...
 
-<!--- Uncomment(F): ## Requirements --->
+## Requirements
 
-<!--- Uncomment(C): * Must include... --->
-<!--- Optional: * Must include... --->
-<!--- Optional: * Must include... --->
+* Must include...
+* Must include...
+* Must include...
 
-<!--- Uncomment(F): ## Bonus --->
+## Bonus
 
-<!--- Uncomment(C): Take your ____(fill in blank)____ to the next level! --->
+Take your ____(fill in blank)____ to the next level!
 
-<!--- Uncomment(C): - [ ] Incompleted bonus challenge ---> 
-<!--- Optional: - [ ] Incompleted bonus challenge ---> 
-<!--- Optional: - [x] Completed bonus challenge --->
+- [ ] Incompleted bonus challenge
+- [ ] Incompleted bonus challenge
 
-<!--- Uncomment(F): ##### *(Completed bonus challenges are indicated above)* --->
+##### *(Completed bonus challenges are indicated above)*
 
-<!--- Uncomment(F): ## Credits --->
+## Credits
 
-<!--- Uncomment(C):
 |                              |             |
 | ---------------------------- | ----------- |
-| **Authors**                  | @yourname   |
-| **Graphics Contributors**    |             |
+| **Authors**                  | @bonechurch |
+| **Graphics Contributors**    | @bonechurch |
 | **Submission Contributors**  |             |
 | **Bonus Contributors**       |             |
-|                              |             | --->
+|                              |             |
 
-<!--- Note (1/2): Credit any contibutors (i.e. using @ symbol) of your challenge by listing them in the appropriate row above. --->
-
-<!--- Uncomment(F): ## Submissions --->
+## Submissions
 
 <!--- Uncomment(F): See the [submissions]() for this challenge. --->
-
-<!--- Note (2/2): Reference the submissions directory for your challenge, by inserting the link between the parentheses above. --->
