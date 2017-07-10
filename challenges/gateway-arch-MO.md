@@ -14,10 +14,12 @@ Your task is to build a 2-D, HUMAN vs. HUMAN, turn-based *Battleship* game.
 
 ## Requirements
 
+##### ***Please refer to the diagram below***
+
 * Must include **2** user-controlled canoes positioned equidistant on either side of the Gateway Arch (finish line)
 * Each canoe must be equipped with a cannon that fires projectiles at their enemy
 * Each cannon's trajectory must be controlled by the player's *click-and-drag* of their mouse/finger
-* A portion of each cannon's trajectory must also be indicated on-screen and respond to the user's mouse/finger movements. ***Please refer to the diagram below***
+* A portion of each cannon's trajectory must also be indicated on-screen and respond to the user's mouse/finger movements.
 * The trajectories/projectiles must respond to game physics & mechanics
 * If the Gateway Arch is struck, the projectile must bounce/respond appropriately
 * During their turn, each player must fire their cannon at their enemy
@@ -28,7 +30,7 @@ Your task is to build a 2-D, HUMAN vs. HUMAN, turn-based *Battleship* game.
 * If a player's HEALTH reduces to **0**, their canoe sinks; and they automatically lose the game
 * The player's canoe who reaches the Gateway Arch first, wins the game
 * If both players tie the race, the player who has the most HEALTH remaining, wins the game 
-* Must implement a gameplay window which: (1) shifts focus between the players' canoes at the start of their turn; (2) focuses on the current projectile being fired. ***Please refer to the diagram below***
+* Must implement a gameplay window which: (1) shifts focus between the players' canoes at the start of their turn; (2) focuses on the current projectile being fired.
 * Must implement a pause screen with (re)start game functionality
 
 ![](https://github.com/bonechurch/Route-66/blob/master/images/diagrams/gateway-arch-MO.png)
