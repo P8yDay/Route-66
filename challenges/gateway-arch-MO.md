@@ -19,7 +19,7 @@ Your task is to build a 2-D, HUMAN vs. HUMAN, turn-based *Battleship* game.
 * Must include **2** user-controlled canoes positioned equidistant on either side of the Gateway Arch (finish line)
 * Each canoe must be equipped with a cannon that fires projectiles at their enemy
 * Each cannon's trajectory must be controlled by the player's *click-and-drag* of their mouse/finger
-* A portion of each cannon's trajectory must also be indicated on-screen and respond to the user's mouse/finger movements.
+* A portion of each cannon's trajectory must also be indicated on-screen and respond to the user's mouse/finger movements
 * The trajectories/projectiles must respond to game physics & mechanics
 * If the Gateway Arch is struck, the projectile must bounce/respond appropriately
 * During their turn, each player must fire their cannon at their enemy
